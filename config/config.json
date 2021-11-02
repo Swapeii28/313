@@ -1,10 +1,10 @@
 {
-    "TOKEN": "BOT TOKEN",
+    "TOKEN": "NzYzMTA1MTcxMzk5MTE0Nzgy.X3y3Eg.GyBkDp_E2qlPZhwqAewSl1pAJWg",
     "DEFAULT_PREFIX": ".",
-    "MONGODB_URI": "MONGODB URI",
+    "MONGODB_URI": "mongodb+srv://cluster0.6t0w9.mongodb.net/myFirstDatabase",
     "SPOTIFY_API_CONFIG": {
-        "clientId": "CLIENT ID",
-        "clientSecret": "CLIENT SECRET"
+        "clientId": "763105171399114782",
+        "clientSecret": "HjelkkFwO0-lBYjDR_Cqd-AUNkuQU-BS"
     },
     "LAVALINK_SERVERS": [
         {
